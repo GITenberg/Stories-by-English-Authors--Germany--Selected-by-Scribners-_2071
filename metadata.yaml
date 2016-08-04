@@ -1,0 +1,68 @@
+_repo: Stories-by-English-Authors--Germany--Selected-by-Scribners-_2071
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  - agent_name: Black, William
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '6136'
+    url: http://www.gutenberg.org/2009/agents/6136
+    wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
+  - agent_name: Harraden, Beatrice
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '4389'
+    url: http://www.gutenberg.org/2009/agents/4389
+    wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
+  - agent_name: Winter, John Strange
+    aliases:
+    - Winter, J. S. (John Strange)
+    - Stannard, Henrietta Eliza Vaughan Palmer
+    - Whyte, Violet
+    birthdate: 1856
+    deathdate: 1911
+    gutenberg_agent_id: '6135'
+    url: http://www.gutenberg.org/2009/agents/6135
+    wikipedia: http://en.wikipedia.org/wiki/John_Strange_Winter
+  - agent_name: Ouida
+    aliases:
+    - De la Ramée, Louisa
+    - Ramé, Marie Louise
+    - De la Ramee, Louise
+    - Uida
+    - Ramée, Maria Louise
+    - De La Rame, Louisa
+    - De la Ramée, Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_bookshelf:
+- Germany
+- Short Stories
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: The bird on its journey / Beatrice Harraden -- Koosje, a study of
+  Dutch life / John Strange Winter -- A dog of Flanders / Ouida -- Markheim / R.L.
+  Stevenson -- Queen Tita's wager / William Black.
+title: 'Stories by English Authors: Germany (Selected by Scribners)'
+url: http://www.gutenberg.org/ebooks/2071
